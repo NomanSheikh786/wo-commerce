@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035654894670",
+    "project_id": "woocommerce-b19ac",
+    "storage_bucket": "woocommerce-b19ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035654894670:android:c60d53a32d51be67a6df1f",
+        "android_client_info": {
+          "package_name": "com.woocommerceplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035654894670-tl064u1t022cvf2jvtcqacro3tvil0op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCo1uusSE5Ht_nymbJU6aPbmLXgoI0qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035654894670-tl064u1t022cvf2jvtcqacro3tvil0op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
